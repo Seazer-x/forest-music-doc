@@ -7,9 +7,10 @@
   "repository": "https://github.com/Seazer-x/forest-music-doc.git",
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/theme-default": "^1.9.7",
     "vuepress": "^2.0.0-beta.49"
   },
-"scripts": {
+  "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   }
