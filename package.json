@@ -1,0 +1,16 @@
+{
+  "name": "forest_music-doc",
+  "version": "1.0.0",
+  "description": "森之乐文档",
+  "main": "index.js",
+  "author": "fubaiping",
+  "repository": "git@github.com:",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  },
+"scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
